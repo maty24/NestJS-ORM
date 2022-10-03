@@ -7,7 +7,7 @@ export const connectionSource = new DataSource({
   host: 'localhost',
   port: 5432,
   username: 'root',
-  password: '12345',
+  password: '1234',
   database: 'demo',
   logging: true,
   synchronize: false,
